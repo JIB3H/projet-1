@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1510734518 source:c:\users\kozlu\desktop\projet\3.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.c"
+	"donnees.c"
+	"actions.c"
+
+1510740119 c:\users\kozlu\desktop\projet\3.4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"donnees.h"
+	"actions.h"
+
+1510667872 c:\users\kozlu\desktop\projet\3.4\menu.h
+
+1510662352 c:\users\kozlu\desktop\projet\3.4\donnees.h
+
+1510672600 c:\users\kozlu\desktop\projet\3.4\actions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"donnees.h"
+	"actions.h"
+
+1510740014 c:\users\kozlu\desktop\projet\3.4\donnees.c
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+
+1510740011 c:\users\kozlu\desktop\projet\3.4\actions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"donnees.h"
+	"actions.h"
+
